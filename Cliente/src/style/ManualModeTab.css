@@ -1,0 +1,55 @@
+.manual-tab-container {
+  max-width: 500px;
+  margin: auto;
+  background-color: #fffde7;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #d7d3a4;
+}
+
+.tab-title {
+  text-align: center;
+  color: #f9a825;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  padding: 8px;
+  border: 2px solid #fbc02d;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.dispense-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #fbc02d;
+  color: #333;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.dispense-button:hover {
+  background-color: #f9a825;
+}
+
+.message {
+  margin-top: 15px;
+  text-align: center;
+  font-weight: bold;
+  color: #795548;
+}

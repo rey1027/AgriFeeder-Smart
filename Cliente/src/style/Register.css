@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+   background: linear-gradient(to right, #4caf50, #8bc34a);  /* Verde campo */
+}
+
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.register-card {
+  background: #fffaf0;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  width: 100%;
+  max-width: 450px;
+  text-align: center;
+}
+
+.register-logo {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.register-card h2 {
+  margin-bottom: 20px;
+  color: #2e7d32;
+}
+
+.input-group {
+  margin-bottom: 18px;
+  text-align: left;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.input-group input:focus {
+  border-color: #4caf50;
+  outline: none;
+}
+
+.error-message {
+  color: #d32f2f;
+  margin-top: 10px;
+}
+
+.register-button {
+  width: 100%;
+  padding: 12px;
+  background-color: hsl(211, 97%, 47%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.register-button:hover {
+  background-color:  #0e99de;
+}
+
+.back-button {
+  margin-top: 15px;
+  background: none;
+  border: none;
+  color: #4caf50;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: underline;
+}

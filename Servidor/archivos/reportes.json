@@ -1,0 +1,50 @@
+[
+  {
+    "fecha": "2025-06-20",
+    "hora": "18:31",
+    "raciones": 1,
+    "modo": "manual"
+  },
+  {
+    "fecha": "2025-06-20",
+    "hora": "18:39",
+    "raciones": 3,
+    "modo": "manual"
+  },
+  {
+    "fecha": "2025-06-20",
+    "hora": "23:04",
+    "raciones": 2,
+    "modo": "autom\u00e1tico"
+  },
+  {
+    "fecha": "2025-06-20",
+    "hora": "23:24",
+    "raciones": 2,
+    "modo": "autom\u00e1tico"
+  },
+  {
+    "fecha": "2025-06-21",
+    "hora": "01:15",
+    "raciones": 3,
+    "modo": "autom\u00e1tico"
+  },
+  {
+    "fecha": "2025-06-21",
+    "hora": "01:25",
+    "raciones": 2,
+    "modo": "autom\u00e1tico"
+  },
+  {
+    "fecha": "2025-06-21",
+    "hora": "01:43",
+    "raciones": 2,
+    "modo": "manual"
+  },
+  {
+    "fecha": "2025-06-21",
+    "hora": "02:05",
+    "raciones": 2,
+    "modo": "autom\u00e1tico"
+  }
+]
